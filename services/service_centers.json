@@ -1,0 +1,24 @@
+[
+  {"name": "City Care Hospital", "type": "Hospital", "latitude": 28.6250, "longitude": 77.2150, "phone": "+91-11-4000-1001", "availability": "24x7"},
+  {"name": "Sunrise Multispeciality Hospital", "type": "Hospital", "latitude": 28.6010, "longitude": 77.1950, "phone": "+91-11-4000-1002", "availability": "24x7"},
+  {"name": "Metro General Hospital", "type": "Hospital", "latitude": 28.6350, "longitude": 77.2300, "phone": "+91-11-4000-1003", "availability": "24x7"},
+
+  {"name": "Rapid Response Ambulance Unit 1", "type": "Ambulance", "latitude": 28.6180, "longitude": 77.2100, "phone": "+91-11-4000-2001", "availability": "24x7"},
+  {"name": "City Ambulance Service", "type": "Ambulance", "latitude": 28.6080, "longitude": 77.2200, "phone": "+91-11-4000-2002", "availability": "24x7"},
+  {"name": "LifeLine Ambulance", "type": "Ambulance", "latitude": 28.6300, "longitude": 77.1900, "phone": "+91-11-4000-2003", "availability": "24x7"},
+
+  {"name": "Central Police Station", "type": "Police Station", "latitude": 28.6200, "longitude": 77.2200, "phone": "+91-11-4000-3001", "availability": "24x7"},
+  {"name": "North Zone Police Station", "type": "Police Station", "latitude": 28.6400, "longitude": 77.2000, "phone": "+91-11-4000-3002", "availability": "24x7"},
+  {"name": "Highway Patrol Post", "type": "Police Station", "latitude": 28.6050, "longitude": 77.2050, "phone": "+91-11-4000-3003", "availability": "24x7"},
+
+  {"name": "Metro Fire Station", "type": "Fire Station", "latitude": 28.6220, "longitude": 77.1980, "phone": "+91-11-4000-4001", "availability": "24x7"},
+  {"name": "Central Fire Brigade", "type": "Fire Station", "latitude": 28.6320, "longitude": 77.2250, "phone": "+91-11-4000-4002", "availability": "24x7"},
+
+  {"name": "AutoCare Service Center", "type": "Vehicle Service Center", "latitude": 28.6150, "longitude": 77.2250, "phone": "+91-11-4000-5001", "availability": "9 AM - 9 PM"},
+  {"name": "QuickFix Auto Garage", "type": "Vehicle Service Center", "latitude": 28.6280, "longitude": 77.1900, "phone": "+91-11-4000-5002", "availability": "8 AM - 8 PM"},
+  {"name": "SpeedTech Motors Workshop", "type": "Vehicle Service Center", "latitude": 28.6000, "longitude": 77.2100, "phone": "+91-11-4000-5003", "availability": "9 AM - 7 PM"},
+
+  {"name": "24x7 Towing Services", "type": "Towing Center", "latitude": 28.6260, "longitude": 77.2050, "phone": "+91-11-4000-6001", "availability": "24x7"},
+  {"name": "RoadGuard Towing", "type": "Towing Center", "latitude": 28.6120, "longitude": 77.1980, "phone": "+91-11-4000-6002", "availability": "24x7"},
+  {"name": "National Highway Towing", "type": "Towing Center", "latitude": 28.6380, "longitude": 77.2150, "phone": "+91-11-4000-6003", "availability": "24x7"}
+]

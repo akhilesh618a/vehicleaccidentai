@@ -1,0 +1,16 @@
+{
+  "threshold_method": {
+    "accuracy": 0.8718796992481203,
+    "precision": 0.8766700924974307,
+    "recall": 0.7359792924935289,
+    "f1_score": 0.800187617260788,
+    "false_alarms": 120
+  },
+  "deep_learning_method": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "false_alarms": 0
+  }
+}
